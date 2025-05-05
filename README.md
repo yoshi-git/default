@@ -1,1 +1,1 @@
-# yoshi-git.github.io
+# default.git
